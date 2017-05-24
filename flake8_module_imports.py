@@ -3,7 +3,7 @@ import tokenize
 
 from sys import stdin
 
-__version__ = '1.0'
+__version__ = '1.1'
 
 MODULE_IMPORTS_ERROR_CODE = 'T005'
 MODULE_IMPORTS_ERROR_MESSAGE = 'module-level import found'
